@@ -1,6 +1,5 @@
-const sumAll = function() {
-
-};
-
-// Do not edit below this line
+const sumAll = function () {};
+fsdfs;
+fsadfsd;
+// Do not edit belfasfasow this line
 module.exports = sumAll;
